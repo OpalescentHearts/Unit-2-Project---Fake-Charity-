@@ -1,5 +1,0 @@
-input = int(input("Number: "))
-while input >= 1:
-  print(input)
-  input -=1
-print("Blast off!")
